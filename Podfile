@@ -1,5 +1,5 @@
 Uncomment this line to define a global platform for your project
-platform :ios, '12.0'
+platform :ios, '9.3.5'
 
 target 'iosinfinitescrollingcloudantapp' do
     pod 'BMSCore', '~> 2.6'
